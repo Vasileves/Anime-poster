@@ -6,28 +6,28 @@ body {
 
 #trgreen {
   position: absolute;
-  left: 200px;
-  top: -140px;
-  width: 511px;
+  left: 18vw;
+  top: -19vh;
+  width: 70vw;
 }
 
 #trred {
   position: absolute;
-  left: 80px;
-  top: 300px;
-  width: 450px;
+  left: 6vw;
+  top: 42vh;
+  width: 54vw;
 }
 
 #cred {
   position: absolute;
-  left: -30px;
-  top: -24px;
-  width: 100px;
+  left: -2vw;
+  top: -6vh;
+  width: 10vw;
 }
 
 #cgreen {
   position: absolute;
-  left: 650px;
-  top: 435px;
-  width: 200px;
+  left: 81vw;
+  top: 62vh;
+  width: 35vw;
 }
