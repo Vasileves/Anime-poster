@@ -3,3 +3,7 @@ body {
   height: 900px;
   overflow: hidden;
 }
+
+img {
+display: block;
+}
