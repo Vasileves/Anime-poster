@@ -1,9 +1,12 @@
 body {
-  width: 1440px;
-  height: 900px;
+  width: 100vw;
+  height: 100vh;
   overflow: hidden;
 }
 
 img {
-display: block;
+  margin-top: 30vh;
+  margin-left: 40vw;
+  display: block;
+  position: absolute;
 }
